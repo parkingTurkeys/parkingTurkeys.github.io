@@ -1,8 +1,8 @@
 <feed xml:base="https://parkingTurkeys.github.io">
 <title>parking_turkeys' blog</title>
 <subtitle>i write blog posts</subtitle>
-<link href="https://parkingTurkeys.github.io/feed.xml" rel="self"/>
-<link href="https://parkingTurkeys.github.io">
+<link href="https://parkingTurkeys.github.io/feed.xml" rel="self"></link>
+<link href="https://parkingTurkeys.github.io"></link>
 <id>https://parkingTurkeys.github.io/</id>
 <author>
     <name>parking_turkeys</name>
