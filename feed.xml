@@ -1,19 +1,19 @@
-<feed xml:base="https://parkingTurkeys.github.io">
+<feed xml:base="https://parkingturkeys.github.io">
 <title>parking_turkeys' blog</title>
 <subtitle>i write blog posts</subtitle>
-<link href="https://parkingTurkeys.github.io/feed.xml" rel="self"></link>
-<link href="https://parkingTurkeys.github.io"></link>
+<link href="https://parkingturkeys.github.io/feed.xml" rel="self"></link>
+<link href="https://parkingturkeys.github.io"></link>
 <id>https://parkingTurkeys.github.io/</id>
 <author>
     <name>parking_turkeys</name>
 </author>
 <entry>
     <title>test post 1</title>
-    <link href="https://parkingTurkeys.github.io/"></link>
-    <updated>2025-94-20T00:00:00Z</updated>
-    <id>https://parkingTurkeys.github.io/</id>
+    <link href="https://parkingturkeys.github.io/"></link>
+    <updated>2025-04-20T00:00:00Z</updated>
+    <id>https://parkingturkeys.github.io/</id>
     <content xml:lang="en" type="html">
-        <p>hello. this is a test blog post by me.</p>
+        "<p>hello. this is a test blog post by me.</p>"
     </content>
 </entry>
 </feed>
