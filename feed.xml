@@ -8,7 +8,7 @@
     <docs>https://cyber.harvard.edu/rss/rss.html</docs>
     <item>
         <title>test blog post!</title>
-        <description>my name is emu ootori wonderhoy emu is meaning smile</description>
+        <description><![CDATA[my name is emu ootori <div style = "font-size: 100px; color: pink">wonderhoy</div> emu is meaning smile]]></description>
     </item>
 </channel>
 </rss>
